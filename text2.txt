@@ -1,6 +1,11 @@
 hi
+<<<<<<< HEAD
 how are u
 test
 test main
 test from main
 
+=======
+how are u  fine 
+test ameni
+>>>>>>> ea9cf76b3c184fef2625e138e2c5a1b1155604f2
